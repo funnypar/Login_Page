@@ -1,17 +1,71 @@
-# login_page
+# 📱 Flutter Login Page
 
-A new Flutter project.
+A simple and clean **Login Page** built with **Flutter**.
+This is my **second Flutter project**, featuring a **Login Screen**.
+This project has been created under the 7learn course flag, Thanks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* ☀️ Light Theme
+* 🎨 Clean Material Design
+* ⚡ Responsive Layout
+* 🌐 Web & Mobile Support
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![Light Theme](assets/images/IPhone12_light.png)
+
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/funnypar/login_page.git
+```
+
+### Go to Project Folder
+
+```bash
+cd login_page
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run App
+
+```bash
+flutter run
+```
+
+---
+
+## 🛠️ Built With
+
+* Flutter
+* Dart
+* Material Design
+
+---
+
+## 👨‍💻 Author
+
+**Parsa Norouzi**
+
+GitHub: https://github.com/funnypar
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
