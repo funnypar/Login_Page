@@ -17,7 +17,7 @@ This project has been created under the 7learn course flag, Thanks.
 
 ## 📸 Screenshots
 
-![Light Theme](assets/images/IPhone12_light.png)
+![Light Theme](assets/images/login.png)
 
 
 ---
